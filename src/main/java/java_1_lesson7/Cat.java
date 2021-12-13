@@ -16,6 +16,7 @@ public class Cat {
     // чтобы отнять от количество еди оппетит
     public void eat (Plate p){
         {
+            
 
             if (p.decreaseFood(appetit))
                 satiety = true;

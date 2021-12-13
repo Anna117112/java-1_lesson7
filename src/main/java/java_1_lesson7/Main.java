@@ -5,6 +5,7 @@ public class Main {
         public static void main(String[] args) {
 
 // Создали массив котов
+
             Cat[] cat = new Cat[3];
             cat[0] = new Cat("Пушок", 5);
             cat[1] = new Cat("Барсик", 10);
