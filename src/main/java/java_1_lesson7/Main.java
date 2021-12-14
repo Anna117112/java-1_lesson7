@@ -1,7 +1,7 @@
 package java_1_lesson7;
 
 public class Main {
-    public class main {
+    
         public static void main(String[] args) {
 
 // Создали массив котов
@@ -24,4 +24,4 @@ public class Main {
         }
     }
 
-}
+
